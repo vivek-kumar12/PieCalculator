@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Phi Harmony Golden Ratio Calc</string>
+    <string name="phi_harmony_golden_ratio_calc">Phi Harmony Golden Ratio Calc</string>
+    <string name="enter_here">Enter Here</string>
+    <string name="input_values">Input Values</string>
+    <string name="percent1">100%</string>
+    <string name="percent2">100% +</string>
+    <string name="value2">100% Values</string>
+    <string name="value1">Values</string>
+    <string name="degree">°</string>
+</resources>
